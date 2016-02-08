@@ -1,0 +1,56 @@
+.nav {
+    list-style-type: none;
+    float: left;
+    width: 20%;
+    position: relative;
+    border: 1px black solid;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+}
+
+li a {
+    display:block;
+    padding: 1em;
+    border: solid black 1px;
+}
+
+li a:hover {
+    color: white;
+    background-color: black;
+}
+
+.header {
+    width: 100%;
+    border: solid #000;
+    border-width: 1px;
+    boder: black 1em solid;
+    padding: 1em;
+
+}
+    
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.main {
+    float: left;
+    right; 80%;
+    position: relative;;
+    width: 75%;
+    height: 1000px;
+    border: 1px black solid;
+}
+
+.main p {
+    padding: 0 .5em 0 .5em;
+}
+
+.nav li {
+    padding: .5 em;
+}
+    
+
