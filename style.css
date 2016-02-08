@@ -26,7 +26,6 @@ li a:hover {
     width: 100%;
     border: solid #000;
     border-width: 1px;
-    boder: black 1em solid;
     padding: 1em;
 
 }
@@ -38,9 +37,8 @@ a {
 
 .main {
     float: left;
-    right; 80%;
-    position: relative;;
-    width: 75%;
+    position: relative;
+    width: 70%;
     height: 1000px;
     border: 1px black solid;
 }
@@ -49,8 +47,6 @@ a {
     padding: 0 .5em 0 .5em;
 }
 
-.nav li {
-    padding: .5 em;
-}
+
     
 
