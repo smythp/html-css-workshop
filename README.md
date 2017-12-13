@@ -19,5 +19,3 @@ CSS is a language for describing style in markup languages, usually HTML. CSS is
 [Filtering](filter.md)  
 [Classes and ids](classes.md)  
 [Useful selectors](selectors.md)  
-
-are you changing Patrick's files? 
