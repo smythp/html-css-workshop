@@ -6,6 +6,7 @@ CSS is a language for describing style in markup languages, usually HTML. CSS is
 
 ### HTML
 
+[Opening Activity] (openingactivitiy)
 [Basic template](basic.md)  
 [Tags and elements](elements.md)  
 [Paragraphs and headings](p_and_h.md)  
