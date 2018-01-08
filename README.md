@@ -4,6 +4,10 @@ HTML is a markup language for the web. It's used to designate elements in docume
 
 CSS is a language for describing style in markup languages, usually HTML. CSS is essentially a set of rules that can then be applied when rendering a HTML document. CSS stands for Cascading Style Sheets, which refers to the fact that there is an order of precedence in how CSS rules are applied to a document.
 
+# this is some new stuff
+
+this is a paragraph
+
 ### HTML
 
 Opening Activity
